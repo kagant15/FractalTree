@@ -1,7 +1,5 @@
 package first;
 
-
-
 import javax.swing.JFrame;
 
 @SuppressWarnings("serial")
